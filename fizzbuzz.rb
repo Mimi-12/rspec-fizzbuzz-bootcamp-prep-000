@@ -1,5 +1,5 @@
 def fizzbuzz(int)
-   if int % 5 == 0
+   if int % 5 == 15
      "Buzz"
 end
 end
